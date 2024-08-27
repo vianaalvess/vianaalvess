@@ -5,6 +5,7 @@
  ## More about me
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=701198&color:FFF)](https://www.linkedin.com/in/ana-vitória-alves-055a6a232/)
  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=701198&color:FFF)](https://www.instagram.com/_ana_.alves._/)
+ [![Dio](https://img.shields.io/badge/-Meu_perfil_na_Dio-000?style=for-the-badge&logo=dio&logoColor=701198&color:FFF)](https://www.dio.com/anaalvess310/)
  
  ## GitHub Stats
  ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vianaalvess&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=701198&text_color=FFF&border_radius=3&border_color=701198&icon_color=701198&theme=jolly)
