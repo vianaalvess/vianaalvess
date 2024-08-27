@@ -4,6 +4,7 @@
 
  ## More about me
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=701198&color:FFF)](https://www.linkedin.com/in/ana-vitória-alves-055a6a232/)
+ [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=701198&color:FFF)](mailto:anaalvess310@gmail.com)
  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=701198&color:FFF)](https://www.instagram.com/_ana_.alves._/)
  [![Dio](https://img.shields.io/badge/-Meu_perfil_na_Dio-000?style=for-the-badge&logo=dio&logoColor=701198&color:FFF)](https://www.dio.com/anaalvess310/)
  
