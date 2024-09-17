@@ -12,7 +12,7 @@
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vianaalvess&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=701198&text_color=FFF&border_radius=3&border_color=701198&icon_color=701198&theme=jolly)
 
 
-## Learning
+## Hard Skills
 <div>
    <img alt="Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>    
    <img alt=".NET Core" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"/>
