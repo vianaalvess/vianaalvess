@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=701198&color:FFF)](https://www.instagram.com/_ana_.alves._/)
  
 ## GitHub Stats
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vianaalvess&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=701198&text_color=FFF&border_radius=3&border_color=701198&icon_color=701198&theme=jolly)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vianaalvess&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=701198&text_color=FFF&border_radius=3&border_color=701198&icon_color=701198&theme=jolly)
 
 ## Hard Skills
 <div>
